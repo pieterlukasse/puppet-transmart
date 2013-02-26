@@ -1,4 +1,4 @@
 puppet-transmart
 ================
 
-Puppet module to automatically install the Transmart
+Puppet module to automatically install Transmart
